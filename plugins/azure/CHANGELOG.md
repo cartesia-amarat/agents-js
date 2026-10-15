@@ -1,5 +1,12 @@
 # @livekit/agents-plugin-azure
 
+## 1.9.4
+
+### Patch Changes
+
+- Updated dependencies [[`b146170`](https://github.com/livekit/agents-js/commit/b14617071c691a15cd77421efd1f263c287503a2)]:
+  - @livekit/agents@1.9.4
+
 ## 1.9.3
 
 ### Patch Changes

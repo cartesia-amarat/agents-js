@@ -1,5 +1,11 @@
 # @livekit/agents
 
+## 1.9.4
+
+### Patch Changes
+
+- Send session keyterms to the Speechmatics Linden inference model. - [#2740](https://github.com/livekit/agents-js/pull/2740) ([@rosetta-livekit-bot](https://github.com/apps/rosetta-livekit-bot))
+
 ## 1.9.3
 
 ### Patch Changes
